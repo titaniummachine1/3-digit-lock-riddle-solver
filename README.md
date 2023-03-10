@@ -1,5 +1,5 @@
 # 3-digit-lock-riddle-solver
-from youtube video
+from youtube video anwser is 0 4 2 but you may run it yourself
  The puzzle states that for a 3-digit combination lock, where each
  digit is a value between 0 and 9, the following clues are known
  about certain combinations:
